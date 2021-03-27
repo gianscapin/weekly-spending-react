@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weekly-spending-react/static/css/main.ad7b5728.chunk.css",
+    "main.js": "/weekly-spending-react/static/js/main.2f359113.chunk.js",
+    "main.js.map": "/weekly-spending-react/static/js/main.2f359113.chunk.js.map",
+    "runtime-main.js": "/weekly-spending-react/static/js/runtime-main.36b00319.js",
+    "runtime-main.js.map": "/weekly-spending-react/static/js/runtime-main.36b00319.js.map",
+    "static/js/2.8c2aa987.chunk.js": "/weekly-spending-react/static/js/2.8c2aa987.chunk.js",
+    "static/js/2.8c2aa987.chunk.js.map": "/weekly-spending-react/static/js/2.8c2aa987.chunk.js.map",
+    "static/js/3.ee511934.chunk.js": "/weekly-spending-react/static/js/3.ee511934.chunk.js",
+    "static/js/3.ee511934.chunk.js.map": "/weekly-spending-react/static/js/3.ee511934.chunk.js.map",
+    "index.html": "/weekly-spending-react/index.html",
+    "static/css/main.ad7b5728.chunk.css.map": "/weekly-spending-react/static/css/main.ad7b5728.chunk.css.map",
+    "static/js/2.8c2aa987.chunk.js.LICENSE.txt": "/weekly-spending-react/static/js/2.8c2aa987.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36b00319.js",
+    "static/js/2.8c2aa987.chunk.js",
+    "static/css/main.ad7b5728.chunk.css",
+    "static/js/main.2f359113.chunk.js"
+  ]
+}
